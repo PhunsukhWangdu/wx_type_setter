@@ -39,7 +39,7 @@ npm run serve
 <img src="./src/assets/templates/preview1.jpg" alt="Modern Minimalist Preview" width="300" height="200">
 <img src="./src/assets/templates/preview2.jpg" alt="Modern Minimalist Preview" width="300" height="200">
 <img src="./src/assets/templates/preview3.jpg" alt="Modern Minimalist Preview" width="200" height="400">
-<img src="./src/assets/templates/preview3.jpg" alt="Modern Minimalist Preview" width="200" height="400">
+<img src="./src/assets/templates/preview4.jpg" alt="Modern Minimalist Preview" width="200" height="400">
 
 ## 模板定制
 
@@ -49,7 +49,6 @@ npm run serve
 ```javascript
 export const BUILTIN_TEMPLATES = [
   {
-    id: 'your-template',
     name: '模板名称',
     description: '模板描述',
     preview: require('@/assets/templates/your-preview.jpg'),
