@@ -13,10 +13,10 @@
 
 ## 快速开始
 
-### 安装
+### 安装&运行
 ```bash
 npm install
-npm run serve
+npm run dev
 ```
 
 
