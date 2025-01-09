@@ -38,7 +38,8 @@ npm run serve
   
 <img src="./src/assets/templates/preview1.jpg" alt="Modern Minimalist Preview" width="300" height="200">
 <img src="./src/assets/templates/preview2.jpg" alt="Modern Minimalist Preview" width="300" height="200">
-<img src="./src/assets/templates/preview3.jpg" alt="Modern Minimalist Preview" width="300" height="200">
+<img src="./src/assets/templates/preview3.jpg" alt="Modern Minimalist Preview" width="200" height="400">
+<img src="./src/assets/templates/preview3.jpg" alt="Modern Minimalist Preview" width="200" height="400">
 
 ## 模板定制
 
